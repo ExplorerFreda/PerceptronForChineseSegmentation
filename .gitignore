@@ -1,0 +1,6 @@
+*.sdf
+*.txt
+Debug/*
+ipch/*
+x64/*
+data/*
